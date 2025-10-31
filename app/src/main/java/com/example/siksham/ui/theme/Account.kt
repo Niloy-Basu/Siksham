@@ -38,7 +38,7 @@ fun Topbar() {
 
 
                 title = {
-                    Text("Your Profile")
+                    Text("Profile")
                 },
 
                 navigationIcon = {
